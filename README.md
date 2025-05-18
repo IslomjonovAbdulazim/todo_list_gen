@@ -1,16 +1,36 @@
-# todo_list_gen
+# 📱 App Name – ToDo List Gen 2.0
 
-A new Flutter project.
+A clean and modern To-Do list app that allows users to add daily tasks and view them by selected date.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🖼️ Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen |
+|-------------|
+| ![Home](assets/screenshots/home.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Screenshots are located in the `assets/screenshots/` directory.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Packages Used
+
+| Package Name           | Description                        | Version |
+|------------------------|------------------------------------|---------|
+| `shared_preferences`   | Used to store tasks locally        | ^2.5.3  |
+| `date_picker_timeline` | Displays a scrollable date picker  | ^1.2.6  | 
+
+---
+
+## 🎨 Figma Design
+
+[Figma File (View Only)](https://www.figma.com/community/file/1505852883611135389)
+> Includes all screens, components, and visual styles.
+
+---
+
+## 🧑‍💻 GitHub Repository
+
+[GitHub Link](https://github.com/IslomjonovAbdulazim/todo_list_gen/tree/started)
+> Contains the source code, project structure, and related files.
