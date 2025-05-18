@@ -26,3 +26,4 @@ A clean and modern To-Do list app that allows users to add daily tasks and view 
 [GitHub Link](https://github.com/IslomjonovAbdulazim/todo_list_gen/)
 > Contains the full source code, project structure, and assets.
 
+
