@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   void load() async {
-
+    // load all notes from local
   }
 
   @override
@@ -29,7 +29,13 @@ class _HomePageState extends State<HomePage> {
           padding: const EdgeInsets.symmetric(
             horizontal: 20,
           ),
-          child: Column(),
+          child: Column(
+            children: [
+              // show dates
+
+              // shows all
+            ],
+          ),
         ),
       ),
     );

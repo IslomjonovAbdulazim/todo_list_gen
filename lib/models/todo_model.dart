@@ -4,4 +4,12 @@
 // - datePlanned: the intended date to complete the task
 // - isFinished: whether the task is completed
 
-class TodoModel {}
+class TodoModel {
+  // members
+
+  // constructor
+
+  // fromJson
+
+  // toJson
+}
