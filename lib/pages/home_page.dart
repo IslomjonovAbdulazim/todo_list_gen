@@ -33,7 +33,9 @@ class _HomePageState extends State<HomePage> {
             children: [
               // show dates
 
-              // shows all
+              // shows all notes
+
+              // create notes
             ],
           ),
         ),
