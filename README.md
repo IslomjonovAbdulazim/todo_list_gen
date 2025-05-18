@@ -1,25 +1,16 @@
 # 📱 App Name – ToDo List Gen 2.0
 
-A clean and modern To-Do list app that allows users to add daily tasks and view them by selected date.
-
----
-
-## 🖼️ Screenshots
-
-| Home Screen                          |
-|--------------------------------------|
-| ![Home](assets/screenshots/img1.png) |
-
-> Screenshots are located in the `assets/screenshots/` directory.
+A clean and modern To-Do list app that allows users to add daily tasks and view them by the selected date.
 
 ---
 
 ## 📦 Packages Used
 
-| Package Name           | Description                        | Version |
-|------------------------|------------------------------------|---------|
-| `shared_preferences`   | Used to store tasks locally        | ^2.5.3  |
-| `date_picker_timeline` | Displays a scrollable date picker  | ^1.2.6  | 
+| Package Name           | Description                          |
+|------------------------|--------------------------------------|
+| `shared_preferences`   | Stores tasks locally on the device   |
+| `date_picker_timeline` | Displays a scrollable date picker    |
+| `device_preview`       | Simulates different phone layouts    |
 
 ---
 
@@ -33,4 +24,5 @@ A clean and modern To-Do list app that allows users to add daily tasks and view 
 ## 🧑‍💻 GitHub Repository
 
 [GitHub Link](https://github.com/IslomjonovAbdulazim/todo_list_gen/tree/started)
-> Contains the source code, project structure, and related files.
+> Contains the full source code, project structure, and assets.
+
