@@ -6,9 +6,9 @@ A clean and modern To-Do list app that allows users to add daily tasks and view 
 
 ## 🖼️ Screenshots
 
-| Home Screen |
-|-------------|
-| ![Home](assets/screenshots/home.png) |
+| Home Screen                          |
+|--------------------------------------|
+| ![Home](assets/screenshots/img1.png) |
 
 > Screenshots are located in the `assets/screenshots/` directory.
 
